@@ -1,0 +1,85 @@
+.why-choose-us-container {
+  background-color: blue;
+  background-size: cover;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 75px;
+  padding-bottom: 40px;
+}
+
+.why-choose-us-heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: hwb(182 16% 9%);
+}
+
+.why-we-deliver {
+  font-family: sans-serif;
+  font-size: 40px;
+  color: #ffffff;
+  font-weight: bold;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.why-choose-us-description {
+  color: #ffffff;
+  font-family: sans-serif;
+  font-size: 18px;
+  padding-bottom: 10px;
+}
+
+.services-heading {
+  font-family: sans-serif;
+  font-size: 23px;
+  color: black;
+}
+.services-img {
+  height: 80px;
+}
+
+.services-paragraph {
+  font-family: sans-serif;
+  font-size: 17px;
+  line-height: 30px;
+}
+.why-choose-us-list-container {
+  padding-left: 0px;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.services-container {
+  background-color: #ffffff;
+  background-size: cover;
+  width: 29%;
+  margin-right: 25px;
+  display: flex;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+  height: 230px;
+}
+
+.button-enquire-now-container {
+  display: flex;
+  align-items: center;
+}
+
+.enquire-now-text {
+  font-family: sans-serif;
+  font-size: 30px;
+  color: #ffffff;
+  padding-right: 50px;
+}
+
+.start-span {
+  font-weight: bold;
+}

@@ -1,0 +1,35 @@
+.footer-icon-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.footer-container {
+  background-color: rgb(32, 32, 82);
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+.footer-icon {
+  color: #ffffff;
+  margin-right: 70px;
+  font-size: 28px;
+}
+.footer-bottom-images {
+  display: flex;
+  align-items: center;
+}
+.copyright-para {
+  font-family: sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+  padding-bottom: 10px;
+}
+
+.footer-img {
+  height: 35px;
+  margin-right: 10px;
+}

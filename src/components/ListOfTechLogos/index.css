@@ -1,0 +1,24 @@
+.image-tech-main-ceontainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.image-tech-container {
+  height: 100px;
+  width: 100px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 1px 5px 0px;
+  border-radius: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.tech-name-logo {
+  height: 50px;
+}

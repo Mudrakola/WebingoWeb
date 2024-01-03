@@ -1,0 +1,49 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 12px;
+  background-color: #3d4162;
+}
+.google-logo-rating-container {
+  display: flex;
+  align-items: center;
+}
+
+.google-img {
+  height: 80px;
+  margin-right: 6px;
+}
+.star-img {
+  height: 25px;
+}
+.rating-paragraph {
+  color: #ffffff;
+  font-size: 18px;
+  padding-right: 15px;
+}
+.call-back-container {
+  display: flex;
+  align-items: center;
+  background-color: #5b6083;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 40px;
+}
+.profile-img {
+  height: 35px;
+  width: 35px;
+}
+
+.request-call-para {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  padding-left: 10px;
+  font-weight: bold;
+}
+.request-call-container {
+  display: flex;
+  align-items: center;
+}

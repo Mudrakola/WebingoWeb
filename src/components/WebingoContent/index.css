@@ -1,0 +1,46 @@
+.content-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 60px;
+}
+
+.content-heading {
+  font-family: sans-serif;
+  font-size: 38px;
+  color: #313979;
+  font-weight: bold;
+}
+
+.content-paragraph {
+  font-family: sans-serif;
+  font-size: 20px;
+  color: #464a69;
+  line-height: 30px;
+}
+.two {
+  font-size: 30px;
+}
+.content-list-container {
+  padding-left: 0px;
+  list-style-type: none;
+}
+
+.content-list-item {
+  display: flex;
+  align-items: center;
+}
+
+.right-check {
+  margin-right: 10px;
+  height: 30px;
+}
+.content-item-paragraph {
+  font-family: sans-serif;
+  font-size: 18px;
+  color: #534c4c;
+}
+
+.webingo-content-img {
+  height: 430px;
+}
